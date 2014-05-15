@@ -3,7 +3,11 @@
 ## Install
 
 ```bash
+$ wget https://github.com/EpiK38/gulpfile/archive/master.zip
+$ unzip master.zip
+$ cd gulpfile-master
 $ npm install
+$ gulp
 ```
 
 
