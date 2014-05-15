@@ -8,6 +8,8 @@ $ cd gulpfile-master
 $ npm install
 ```
 
+Then, rename 'gulpfile-master' to your project name.
+
 
 ## Getting started
 
