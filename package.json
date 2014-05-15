@@ -1,0 +1,17 @@
+{
+  "name": "Sunshine",
+  "version": "0.0.1",
+  "description": "Gulpfile Sample",
+  "main": "",
+  "scripts": {},
+  "author": "https://github.com/EpiK38",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.6.1",
+    "gulp-rename": "~1.2.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-jshint": "~1.5.3",
+    "gulp-ruby-sass": "~0.5.0"
+  }
+}
